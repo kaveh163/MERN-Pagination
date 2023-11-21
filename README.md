@@ -7,9 +7,9 @@ noteworthy npm packages used for backend of this app are:
 * express: used for the backend routing and server
 
 
-Below are snapshots of the project.
+Below is a snapshot of the project.
 
-![Mini Food App](/Assets/MERN-pagination.PNG)
+![Mini Food App](/Assets/MERN-pagination.png)
 
 #
 
@@ -32,5 +32,4 @@ This app provides visitors with the recipes posted by different users and allows
 ## Tests
 This app was tested manually.
 
-## Future
-More features such as allowing the user to modify their recipes and adding input validations during user registration will be made in the future.
+
