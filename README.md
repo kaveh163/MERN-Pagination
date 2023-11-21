@@ -26,10 +26,6 @@ Below is a snapshot of the project.
 8. In the root of the app run "npm start" from the commandline.
 9. In the cliend folder of the app run "npm start" from the commandline.
 
-## Usage
-This app provides visitors with the recipes posted by different users and allows them to search recipes by ingredients.
 
-## Tests
-This app was tested manually.
 
 
